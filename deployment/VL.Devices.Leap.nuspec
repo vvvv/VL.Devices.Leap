@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>VL.Devices.Leap</id>
-    <version>0.0.1-alpha</version>
+    <version>0.0.2-alpha</version>
     <title>VL.Devices.Leap</title>
     <authors>Ultraleap, vvvv</authors>
     <owners>vvvv</owners>
     <projectUrl>https://github.com/vvvv/VL.Devices.Leap</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <summary>SProvides support for the Leap Motion device in VL. Try it with vvvv: http://visualprogramming.net</summary>
+    <summary>Provides support for the Leap Motion device in VL</summary>
     <description>Provides support for the Leap Motion device in VL</description>
     <tags>VL, ultraleap</tags>
 	<license type="expression">LGPL-3.0-only</license>
