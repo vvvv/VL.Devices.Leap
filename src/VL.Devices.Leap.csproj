@@ -19,7 +19,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="LeapCSharp.NET4.0">
-      <HintPath>..\lib\net461\LeapCSharp.NET4.0.dll</HintPath>
+      <HintPath>..\lib\net472\LeapCSharp.NET4.0.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
