@@ -1,5 +1,5 @@
 # VL.Devices.Leap
-Support for the Ultraleap Motion Controller with old SDK
+A package for using the Motion Controller by Ultraleap in VL (with their old SDK).
 
 Try it with vvvv, the visual live-programming environment for .NET  
 Download: http://visualprogramming.net
